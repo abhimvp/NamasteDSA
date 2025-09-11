@@ -3,6 +3,15 @@
 - Learning from NamasteDev - [NamasteDSA](https://namastedev.com/learn/namaste-dsa)
 - Going to watch every video in order & at 1.5x speed if i'm aware of concepts already.
 
+## Day 2
+
+- Under Warm Up:
+  - 9:04 AM -> `Loops 02` - Explore complex looping scenarios, including nested loops and edge cases. This will enhance your problem-solving skills and help you tackle repetitive tasks in code. - Done at 10:17 AM with a 10 min break in-between.
+  - Take a break before you start next video - give rest to your eyes as well.
+  - 11:20 AM -> `Second largest` - Learn how to write code to find the second largest element in a list or array. Improve your understanding of comparisons and iterations in arrays. -> done at 12:12 PM
+  - 1:52PM -> `Loop in Loop` - This video focuses on using loops within loops (nested loops) to solve problems like pattern generation and multi-dimensional data handling. -> 2:18 PM (2x speed) - a great foundation for star patterns we will do them for fun next.
+  - 4:01 PM -> `Star Pattern` - Learn how to create various star-based patterns (pyramids, inverted patterns) using nested loops. A fun way to practice loops and understand iteration. ->(1.5x speed) Done by 5:30 PM (slept in-between for 10-20 min) but had fun.
+
 ## Day 1
 
 - Day 1 - Revision of Basics & some insights on how to approach DSA
