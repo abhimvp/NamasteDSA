@@ -1,7 +1,21 @@
-# NamasteDSA
+# NamasteDSA - DSA Journey - Day Wise Breakdown
 
 - Learning from NamasteDev - [NamasteDSA](https://namastedev.com/learn/namaste-dsa)
 - Going to watch every video in order & at 1.5x speed if i'm aware of concepts already.
+
+## Day 4
+
+- `Time & Space Complexity`: This episode introduces Big O notation, helping you understand how code performance scales with input size. A must-watch for preparing DSA interviews. (1 Video(1.5x speed) - Start - 9/12/2025 -10:32 AM - 11:20 AM - 9/15/2025 -8:00 AM - END - 8:43 AM)
+- `Arrays` - Easy & Medium - START - 10:00 AM - END - xxx
+  - `Remove Duplicates`: Learn to use in-place techniques to eliminate duplicates from a sorted array, returning the length of the modified array. [Leetcode link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) - EASY - 10:00 AM -
+
+## Day 3
+
+- Under Warm Up:
+
+  - 8:00 AM -> `Count Digit` - This episode teaches how to count digits in a number using loops and mathematical operations. It enhances your understanding of basic number manipulation. - Done by 8:21 AM.
+  - 8:24 AM -> `Palindrome` - Learn to write code that checks if a given input reads the same forwards and backwards (palindrome). Essential for understanding string and number handling - Leetcode - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) - Done by 8:51 AM.
+  - 8:55 AM -> `Reverse Integer` - This video teaches how to reverse an integer's digits without converting it to a string. Great for practicing loops and modulus operations. - Done by 9:11 AM.
 
 ## Day 2
 
