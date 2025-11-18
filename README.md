@@ -1,13 +1,21 @@
 # NamasteDSA - DSA Journey - Day Wise Breakdown
 
 - Learning from NamasteDev - [NamasteDSA](https://namastedev.com/learn/namaste-dsa)
+- [Leetcode profile](https://leetcode.com/u/abhimvp/)
 - Going to watch every video in order & at 1.5x speed if i'm aware of concepts already.
+
+## Day 0 - 18th, November, 2025
+
+- Arrays
+  - Easy - 1 -  [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+
+---
+
+ReStart
 
 ## Day 4
 
 - `Time & Space Complexity`: This episode introduces Big O notation, helping you understand how code performance scales with input size. A must-watch for preparing DSA interviews. (1 Video(1.5x speed) - Start - 9/12/2025 -10:32 AM - 11:20 AM - 9/15/2025 -8:00 AM - END - 8:43 AM)
-- `Arrays` - Easy & Medium - START - 10:00 AM - END - xxx
-  - `Remove Duplicates`: Learn to use in-place techniques to eliminate duplicates from a sorted array, returning the length of the modified array. [Leetcode link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) - EASY - 10:00 AM -
 
 ## Day 3
 
