@@ -8,6 +8,7 @@
 
 - Arrays
   - Easy - 1 -  [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+  - Easy - 2 - [Remove Element](https://leetcode.com/problems/remove-element/description/)
 
 ---
 
